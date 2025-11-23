@@ -11,7 +11,7 @@ export struct HomePage {
       Column() {
         ArcList() {
           ArcListItem() {
-            Text("Your Workouts")
+            Text('Your Workouts')
               .fontSize(14)
               .fontWeight(FontWeight.Regular)
               .textAlign(TextAlign.Center)
